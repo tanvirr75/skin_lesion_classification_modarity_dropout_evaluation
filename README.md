@@ -19,5 +19,5 @@ An empirical study evaluating whether Modality Dropout (randomly hiding patient 
 
 ## 📓 Notebooks
 
-* [HAM10000 Analysis](https://www.kaggle.com/code/tanvirulhoque99/ham10000)
-* [PAD-UFES-20 Analysis](https://www.kaggle.com/code/tanvirulhoque99/pad-ufes-20-dataset)
+* https://www.kaggle.com/code/tanvirulhoque99/ham10000
+* https://www.kaggle.com/code/tanvirulhoque99/pad-ufes-20-dataset
